@@ -1,0 +1,6 @@
+
+{
+  "name": "JetSense ML Predictive Maintenance",
+  "description": "Industrial-grade ML visualization layer for turbofan engine RUL prediction. Upload your CMAPSS telemetry data to monitor engine health.",
+  "requestFramePermissions": []
+}
